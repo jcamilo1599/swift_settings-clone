@@ -1,3 +1,3 @@
-# App Configuración de iOS
+# Settings iOS app clone
 
 ![Image](image.gif)
